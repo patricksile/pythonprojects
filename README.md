@@ -7,4 +7,18 @@ the web browser, get up and dance to it or just walk away from the computer if h
 then go back to work when his favorite music finishes to play.
 
 
-[Link to a google doc version](https://goo.gl/P2xr7W)
+
+
+Steps to solve the problem:
+
+Romy's Steps:
+1 - Put all together what is needed to program the music break through the day.
+2 - write the program.
+3 - Try if the program works.
+
+
+Patrick's Steps:
+
+1 - Open a web browser and play a music (webbrowser.open(url_of_the_music))
+2 - Delay (Working period) (time.sleep(secs))
+2 - Repeat step 1 and 2 as much as needed.
